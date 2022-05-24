@@ -2,15 +2,15 @@
   "stock": [
     {
       "id": 1,
-      "amount": 3
+      "amount": 0
     },
     {
       "id": 2,
-      "amount": 5
+      "amount": 30
     },
     {
       "id": 3,
-      "amount": 2
+      "amount": 40
     },
     {
       "id": 4,
